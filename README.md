@@ -1,4 +1,4 @@
-# Project documentation
+# mb-završni_BACKEND
 
 To start this project you need to have instaled: node.js, npm, graphql, mongoose and MongoDb 
 
